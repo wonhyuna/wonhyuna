@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Name: Won HyunA
-Now, I'm currently learning about github.🌱
+Name: Won HyunA <br>
+Now, I'm currently learning about github.🌱 <br>
 How to reach me: hyunawon417@naver.com 📫 
