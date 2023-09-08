@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Name: Won HyunA
+Now, I'm currently learning about github.🌱
+How to reach me: hyunawon417@naver.com 📫 
