@@ -1,4 +1,6 @@
-<img src = "https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=This%20is%20wonhyuna&textBg=false&reversal=false"/>
+<p align = "center">
+  <img src = "https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=This%20is%20wonhyuna&textBg=false&reversal=false"/>
+</p>
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
