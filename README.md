@@ -10,7 +10,7 @@
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonhyuna&layout=compact)]
+<a href="https://github.com/wonhyuna"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonhyuna&layout=compact&theme=nord&hide_border=true" /></a>
 </div>
 
 <h3 align="center">📚 Tech Stack (Now Studying) 📚</h3>
