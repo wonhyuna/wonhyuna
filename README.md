@@ -8,6 +8,11 @@
 </div>
 
 
+<h3 align="center">🛠 Tools 🛠</h3>
+<div align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+</div>
+
 <h3 align="center">📚 Tech Stack (Now Studying) 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
